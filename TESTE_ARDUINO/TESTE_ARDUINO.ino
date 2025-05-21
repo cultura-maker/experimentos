@@ -3,7 +3,6 @@ const int PIN_LED_RED = 3;
 const int PIN_LED_GREEN = 4;
 const int PIN_LED_YELLOW = 5;
 
-
 void setup() {
 
   pinMode(PIN_LED_RED, OUTPUT);
