@@ -2,7 +2,7 @@
 
 ## Experimentos da oficina de programação com Arduino
 
-Este repositório reúne os experimentos desenvolvidos na **Oficina de Programação com Arduino**, com foco em práticas da **Cultura Maker**. O objetivo é estimular a aprendizagem prática e criativa por meio da construção de projetos com microcontroladores.
+Este repositório reúne os experimentos desenvolvidos na **Oficina de Programação com Arduino**, com foco em práticas da **Cultura Maker**. O objetivo é estimular a aprendizagem prática e criativa por meio da construção de projetos com Arduino.
 
 ## 🧠 O que é Cultura Maker?
 
