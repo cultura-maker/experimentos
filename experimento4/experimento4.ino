@@ -8,7 +8,7 @@ void setup() {
 void loop() {
 
   // verifica se existe dados na entrada serial
-  if (Serial.available() > 0) {
+  if (Serial.available()) {
 
     // lê um texto disponível
     nome = Serial.readString();
