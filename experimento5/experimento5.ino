@@ -11,7 +11,6 @@ void setup() {
   numeroSorteado = random(10);
 
   Serial.begin(9600);
-
 }
 
 void loop() {
