@@ -31,5 +31,5 @@ void loop() {
   if (led == 'Y') {                     // Led amarelo - yellow
     digitalWrite(PIN_LED_YELLOW, HIGH); // Acende led
   }
-
+  
 }
